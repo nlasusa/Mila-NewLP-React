@@ -1,0 +1,25 @@
+import React from 'react'
+import './style.css'
+
+function LoginForm () {
+  return (
+    <div className="login-form" data-aos="fly-in">
+      <div id="login-welcome">
+        Already have an account? Login below.
+      </div>
+      <form>
+        <br/>
+        <input type="text" title="username" placeholder=" Username"/>
+        <br/>
+        <br/>
+        <input type="password" title="username" placeholder=" Password"/>
+        <br/>
+        <br/>
+        <button type="submit" className="btn">Login</button>
+        <button id="forgot">Forgot Username?</button>
+      </form>
+    </div>
+  )
+}
+
+export default LoginForm
