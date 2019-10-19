@@ -4,7 +4,6 @@ import AOS from 'aos'
 
 import Header from './components/Header'
 import Photothingy from './components/Photothingy'
-import RegistrationForm from './components/RegistrationForm'
 import LoginForm from './components/LoginForm'
 import Banner from './components/BannerOne'
 import Header2 from './components/Header2'
