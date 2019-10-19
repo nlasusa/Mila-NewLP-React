@@ -4,21 +4,9 @@ import './style.css'
 function Banner () {
     return (
       <>
+        <div id="saying2">The go-to caption curator</div>
         <div id="saying">for Instagram</div>
-        <div id="saying2">
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-          <br/> app description placeholder xxxxxxxxxxxx
-        </div>
-      </>
+        </>
     )
 }
 

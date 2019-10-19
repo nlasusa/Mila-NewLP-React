@@ -24,24 +24,9 @@ function App() {
       <div className="bg-image img1">
         <div className="container">
           <div className="row">
-            <div className="lg-col-12">
+            <div className="col-6">
               <Banner/>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div className="bg-image img2">
-        <div id="login">
-          <div className="container" data-aos="fade-left">
-            <div className="row">
-              <div className="lg-col-6">
-                <RegistrationForm/>
-              </div>
-            </div>
-            <div className="row">
-              <div className="lg-col-6">
-                <LoginForm/>
-              </div>
+              <LoginForm/>
             </div>
           </div>
         </div>

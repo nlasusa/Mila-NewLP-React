@@ -5,7 +5,7 @@ function LoginForm () {
   return (
     <div className="login-form" data-aos="fly-in">
       <div id="login-welcome">
-        Already have an account? Login below.
+        Login or Sign up with MILA below.
       </div>
       <form>
         <br/>

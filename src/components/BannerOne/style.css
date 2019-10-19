@@ -2,18 +2,22 @@
     font-family: 'Pacifico', cursive;
     font-size: 55px;
     color: white;
-    margin-top: 28px;
+    margin-top: 50px;
     text-shadow: 1px solid black;
     z-index: 2;
+    margin-left: -69px;
+    /* position: relative; */
+    margin-top: -50px; 
 }
 
 #saying2 {
     color: white;
-    font-size: 22px;
+    font-size: 26px;
     font-family: 'Abel', sans-serif;
-    padding: 20px; 
-    margin-top: -50px;
-    margin-left: -20px;
+    padding: 30px; 
+    margin-left: -110px;
+    margin-top: 20px;
+    font-weight: bold; 
 }
 
 @media only screen and (max-width: 1000px) {

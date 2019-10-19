@@ -1,16 +1,17 @@
 .login-form {
-    /* background-color: #a186aa; */
-    background-color: #090225;
-    width: 670px;
-    height: 380px;
-    opacity: 0.95;
-    padding: 60px;
+    background-color: #9344b8;
+    width: 405px;
+    height: 350px;
+    opacity: 0.8;
+    padding: 40px;
+    margin-top: 5px;
+    margin-left: 820px; 
     color: white;
-    margin-top: -60px;
     border-radius: 10px;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 26px;
     font-weight: bold;
+    z-index: 1;
 }
 
 #login-welcome {
