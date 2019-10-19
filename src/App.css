@@ -31,7 +31,7 @@ a:hover {
 .img1 { background-image: url("./assets/images/girl.jpg"); height: 600px; }
 .img2 { background-image: url("./assets/images/white.jpg"); height: 520px; }
 .img3 { background-image: url("./assets/images/white.jpg"); height: 70%; }
-.img4 { background-image: url("./assets/images/grey.jpg"); height: 70%; }
+.img4 { background-image: url("./assets/images/darkgrey.jpg"); height: 70%; }
 
 
 @media only screen and (max-width: 1000px) {
