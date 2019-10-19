@@ -8,6 +8,7 @@ import RegistrationForm from './components/RegistrationForm'
 import LoginForm from './components/LoginForm'
 import Banner from './components/BannerOne'
 import Header2 from './components/Header2'
+import QuickSearch from './components/QuickSearch'
 import Footer from './components/Footer'
 
 
@@ -24,9 +25,14 @@ function App() {
       <div className="bg-image img1">
         <div className="container">
           <div className="row">
-            <div className="col-6">
+            <div className="col-12">
               <Banner/>
               <LoginForm/>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-12">
+              <QuickSearch/>
             </div>
           </div>
         </div>

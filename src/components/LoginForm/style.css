@@ -1,10 +1,10 @@
 .login-form {
-    background-color: #9344b8;
+    background-color: #8e46d1;
     width: 405px;
     height: 350px;
     opacity: 0.8;
     padding: 40px;
-    margin-top: 5px;
+    margin-top: -20px;
     margin-left: 820px; 
     color: white;
     border-radius: 10px;
@@ -27,7 +27,7 @@
 }
 
 .btn:hover {
-    color:#b87aff;
+    color:rgb(182, 182, 182);  
 }
 
 .login-form input {
@@ -49,5 +49,5 @@
 }
 
 #forgot:hover {
-    color: #b87aff;
+    color:rgb(182, 182, 182);  
 }
