@@ -3,7 +3,7 @@ import './style.css'
 
 function LoginForm () {
   return (
-    <div className="login-form" data-aos="fly-in">
+    <div className="login-form" data-aos="fade-left">
       <div id="login-welcome">
         Login or Sign up with MILA below.
       </div>
