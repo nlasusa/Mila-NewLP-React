@@ -55,10 +55,10 @@
     z-index: 1;
 }
 .registration-form .input-section.folded input {
-    background-color: #26074e;
+    background-color: #b87aff;
 }
 .registration-form .input-section.folded span {
-    background-color: #26074e;
+    background-color: #b87aff;
 }
 .registration-form .input-section.folded + .folded {
     width: 90%;
@@ -69,10 +69,10 @@
     z-index: 0;
 }
 .registration-form .input-section.folded + .folded input {
-    background-color: #26074e;
+    background-color: #b87aff;
 }
 .registration-form .input-section.folded + .folded span {
-    background-color: #26074e;
+    background-color: #b87aff;
 }
 .registration-form .input-section.fold-up {
     margin-top: -75px;
